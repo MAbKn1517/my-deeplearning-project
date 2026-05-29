@@ -1,4 +1,9 @@
-* c260611 (HEAD -> main, origin/main, origin/HEAD) Add git activity and repository structure log
+*   34380d7 (HEAD -> main, origin/main, origin/HEAD) Merge branch 'feature/project-structure' into main
+|\  
+| * 2c428f8 (feature/project-structure) Add placeholder files to initialize Git tracking on empty directories
+|/  
+* 07370ca Add git activity and repository structure log
+* c260611 Add git activity and repository structure log
 * da06db3 Add git activity and repository structure log
 *   5374691 Add placeholder files to initialize Git tracking on empty directories
 |\  
@@ -10,6 +15,65 @@
 .
 ./data
 ./data/.gitkeep
+./my-deeplearning-project
+./my-deeplearning-project/data
+./my-deeplearning-project/data/.gitkeep
+./my-deeplearning-project/README.md
+./my-deeplearning-project/Mabel_Darkwah_git_activity.txt
+./my-deeplearning-project/docs
+./my-deeplearning-project/docs/README.md
+./my-deeplearning-project/.git
+./my-deeplearning-project/.git/HEAD
+./my-deeplearning-project/.git/objects
+./my-deeplearning-project/.git/objects/info
+./my-deeplearning-project/.git/objects/pack
+./my-deeplearning-project/.git/objects/pack/pack-c07f6c84c3b5a18cd28b007a5a2eb84e00a9364d.pack
+./my-deeplearning-project/.git/objects/pack/pack-c07f6c84c3b5a18cd28b007a5a2eb84e00a9364d.idx
+./my-deeplearning-project/.git/config
+./my-deeplearning-project/.git/branches
+./my-deeplearning-project/.git/info
+./my-deeplearning-project/.git/info/exclude
+./my-deeplearning-project/.git/description
+./my-deeplearning-project/.git/packed-refs
+./my-deeplearning-project/.git/hooks
+./my-deeplearning-project/.git/hooks/prepare-commit-msg.sample
+./my-deeplearning-project/.git/hooks/update.sample
+./my-deeplearning-project/.git/hooks/fsmonitor-watchman.sample
+./my-deeplearning-project/.git/hooks/pre-rebase.sample
+./my-deeplearning-project/.git/hooks/pre-applypatch.sample
+./my-deeplearning-project/.git/hooks/post-update.sample
+./my-deeplearning-project/.git/hooks/push-to-checkout.sample
+./my-deeplearning-project/.git/hooks/pre-commit.sample
+./my-deeplearning-project/.git/hooks/pre-push.sample
+./my-deeplearning-project/.git/hooks/pre-merge-commit.sample
+./my-deeplearning-project/.git/hooks/applypatch-msg.sample
+./my-deeplearning-project/.git/hooks/commit-msg.sample
+./my-deeplearning-project/.git/hooks/pre-receive.sample
+./my-deeplearning-project/.git/logs
+./my-deeplearning-project/.git/logs/HEAD
+./my-deeplearning-project/.git/logs/refs
+./my-deeplearning-project/.git/logs/refs/heads
+./my-deeplearning-project/.git/logs/refs/heads/main
+./my-deeplearning-project/.git/logs/refs/remotes
+./my-deeplearning-project/.git/logs/refs/remotes/origin
+./my-deeplearning-project/.git/logs/refs/remotes/origin/HEAD
+./my-deeplearning-project/.git/index
+./my-deeplearning-project/.git/refs
+./my-deeplearning-project/.git/refs/tags
+./my-deeplearning-project/.git/refs/heads
+./my-deeplearning-project/.git/refs/heads/main
+./my-deeplearning-project/.git/refs/remotes
+./my-deeplearning-project/.git/refs/remotes/origin
+./my-deeplearning-project/.git/refs/remotes/origin/HEAD
+./my-deeplearning-project/.gitignore
+./my-deeplearning-project/tests
+./my-deeplearning-project/tests/__init__.py
+./my-deeplearning-project/notebooks
+./my-deeplearning-project/notebooks/example.ipynb
+./my-deeplearning-project/notebooks/README.md
+./my-deeplearning-project/src
+./my-deeplearning-project/src/__init__.py
+./my-deeplearning-project/firstname_lastname_git_activity.txt
 ./README.md
 ./Mabel_Darkwah_git_activity.txt
 ./docs
