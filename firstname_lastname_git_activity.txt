@@ -1,0 +1,22 @@
+*   5374691 (HEAD -> main, origin/main, origin/HEAD) Add placeholder files to initialize Git tracking on empty directories
+|\  
+| * 94e7c9c Add project directory structure with placeholder files
+* | 8e4d3db feat: Add initial project structure
+|/  
+* 65bf197 Initial commit
+\n===== REPOSITORY STRUCTURE =====\n
+.
+./data
+./data/.gitkeep
+./README.md
+./docs
+./docs/README.md
+./.gitignore
+./tests
+./tests/__init__.py
+./notebooks
+./notebooks/example.ipynb
+./notebooks/README.md
+./src
+./src/__init__.py
+./firstname_lastname_git_activity.txt
